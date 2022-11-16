@@ -60,7 +60,8 @@ Genome-wide association studies (GWAS) are popular and useful tools for investig
 1. Setting up
 2. Preparing clinical files
 3. Genetic QC
-4. Genetic risk score 
+4. Heritability
+5. Genetic risk score 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

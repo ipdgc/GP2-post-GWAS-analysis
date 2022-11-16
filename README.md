@@ -74,9 +74,6 @@ Genome-wide association studies (GWAS) are popular and useful tools for investig
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 * Plink
@@ -86,7 +83,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone ipdgc/GP2-post-GWAS-analysis
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

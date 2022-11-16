@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/GP2_logo.png" alt="Logo" width="260" height="80">
+    <img src="images/GP2_logo.png" alt="Logo" width="300" height="80">
   </a>
 
 <h3 align="center">Post-GWAS analysis</h3>
@@ -57,11 +57,17 @@ Genome-wide association studies (GWAS) are popular and useful tools for investig
 
 ### Workflow Summary
 
+### PD_LRRK2_hackathon.ipynb
 1. Setting up
 2. Preparing clinical files
 3. Genetic QC
 4. Heritability
 5. Genetic risk score 
+
+### runs_of_homozygosity.ipynb
+1. Setting up
+2. Quality control
+3. Runs of homozygosity
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,21 +79,14 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Plink
+* GCTA
 
 ### Installation
 
 1. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -97,9 +96,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+These notebooks can be directly uploaded to your workspace on Terra. They are designed to be used on Terra with AMP-PD data, but by changing the file paths you can use these notebooks anywhere other than Terra and for any data.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to Plink [documentation](https://www.cog-genomics.org/plink/) and GCTA [documentation](https://yanglab.westlake.edu.cn/software/gcta/#Overview)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,8 +107,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Acknowledgments
 
 * [AMP-PD](https://amp-pd.org/)
-* []()
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

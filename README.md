@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/GP2_logo.png" alt="Logo" width="200" height="80">
+    <img src="images/GP2_logo.png" alt="Logo" width="260" height="80">
   </a>
 
 <h3 align="center">Post-GWAS analysis</h3>

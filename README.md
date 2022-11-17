@@ -8,13 +8,11 @@
 <h3 align="center">Post-GWAS analysis</h3>
 
   <p align="center">
-    One of the projects from the 2021 GP2/IPDGC Hackathon. The related manuscript can be found on 
-    [biorxiv](https://www.biorxiv.org/content/10.1101/2022.05.04.490670v1) 
+    One of the projects from the 2021 GP2/IPDGC Hackathon. The related manuscript can be found on bioRxiv: https://www.biorxiv.org/content/10.1101/2022.05.04.490670v1
     <br />
     <br />
   </p>
 </div>
-
 
 
 <!-- TABLE OF CONTENTS -->

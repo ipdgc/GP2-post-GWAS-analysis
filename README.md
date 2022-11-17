@@ -83,7 +83,7 @@ Genome-wide association studies (GWAS) are popular and useful tools for investig
 
 1. Clone the repo
    ```sh
-   git clone ipdgc/GP2-post-GWAS-analysis
+   git clone https://github.com/ipdgc/GP2-post-GWAS-analysis.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

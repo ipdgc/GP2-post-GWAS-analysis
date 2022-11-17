@@ -10,6 +10,7 @@
   <p align="center">
     One of the projects from the 2021 GP2/IPDGC Hackathon. The related manuscript can be found on bioRxiv: https://www.biorxiv.org/content/10.1101/2022.05.04.490670v1
     <br />
+    Contributers: Julie Lake, Raquel Real, Bernabe Bustos, Bharati Jadhav, Lesley Wu
     <br />
   </p>
 </div>

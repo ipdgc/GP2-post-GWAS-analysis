@@ -76,8 +76,8 @@ Genome-wide association studies (GWAS) are popular and useful tools for investig
 
 ### Prerequisites
 
-* Plink
-* GCTA
+* [Plink](https://www.cog-genomics.org/plink/)
+* [GCTA](https://yanglab.westlake.edu.cn/software/gcta/#Overview)
 
 ### Installation
 
